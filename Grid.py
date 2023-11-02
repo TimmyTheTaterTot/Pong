@@ -6,7 +6,6 @@ class Grid:
     2D grid with (x, y) int indexed internal storage
     Has .width .height size properties
     """
-    
 
     def __init__(self, width, height):
         self.height = height
